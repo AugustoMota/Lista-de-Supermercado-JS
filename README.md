@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto é o uma Apresentção responsiva de uma Agencia de marketing 
+O Projeto é o uma Apresentção responsiva de uma Lista de mercado 
 
 ## 🔖 Layout
 
